@@ -1,0 +1,12 @@
+.cardListWrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .cardsBlock {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        flex-wrap: wrap;
+    }
+}
